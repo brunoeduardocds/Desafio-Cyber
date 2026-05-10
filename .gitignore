@@ -1,0 +1,4 @@
+# Ignorar chaves e logs por segurança
+*.key
+*.txt
+__pycache__/
